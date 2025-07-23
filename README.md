@@ -24,7 +24,7 @@ Currently working at **UST Global**, I specialize in:
 
 ## 📌 Featured Projects
 
-### 🔹 [CCTV Anomaly Detection](https://github.com/Anoop-Nair-U/CCTV_Anomaly_detection)
+### 🔹 [CCTV Anomaly Detection](https://github.com/Anoop-Nair-U/CCTV_Anomaliy_detection)
 Python-based desktop app for identifying anomalies in CCTV footage using a CNN model, motion detection, and CLAHE preprocessing.
 
 ### 🔹 [MyClusterSVG](https://github.com/Anoop-Nair-U/MyClusterSVG)
@@ -41,7 +41,7 @@ Java-based mini booking engine with role-based login and CRUD operations.
 ## 📈 Resume & Links
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anoop-nair-u-11a145226)  
-- 📄 [Resume (ATS-Friendly)](https://github.com/Anoop-Nair-U/Anoop-Nair-U/files/your_resume_here)  
+- 📄 [Anoop Resume](https://drive.google.com/file/d/1Nulr17OXpWdCDsCEvNQoz1KZvHtKPXBt/view?usp=drivesdk)  
 - 💻 [GitHub Projects](https://github.com/Anoop-Nair-U?tab=repositories)
 
 ---
