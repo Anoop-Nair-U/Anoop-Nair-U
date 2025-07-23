@@ -40,9 +40,9 @@ Java-based mini booking engine with role-based login and CRUD operations.
 
 ## 📈 Resume & Links
 
-- 🔗 [LinkedIn](https://linkedin.com/in/anoopnairu)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anoop-nair-u-11a145226)  
 - 📄 [Resume (ATS-Friendly)](https://github.com/Anoop-Nair-U/Anoop-Nair-U/files/your_resume_here)  
-- 💻 [GitHub Projects](https://github.com/Anoop-Nair-U)
+- 💻 [GitHub Projects](https://github.com/Anoop-Nair-U?tab=repositories)
 
 ---
 
